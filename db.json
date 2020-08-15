@@ -186,6 +186,7 @@
                "invoiceLineId":1,
                "description":"Pork",
                "quantity":1,
+               "unitPrice":22.60,
                "cost":22.60
             }
          ]
@@ -198,6 +199,7 @@
                "invoiceLineId":1,
                "description":"Beef",
                "quantity":1,
+               "unitPrice":19.99,
                "cost":19.99
             }
          ]
@@ -210,12 +212,14 @@
                "invoiceLineId":1,
                "description":"Fish Tofu",
                "quantity":3,
+               "unitPrice":6.00,
                "cost":18.00
             },
             {
                "invoiceLineId":2,
                "description":"Leek",
                "quantity":1,
+               "unitPrice":1.99,
                "cost":1.99
             }
          ]
@@ -227,13 +231,16 @@
             {
                "invoiceLineId":1,
                "description":"Tomato",
-               "quantity":1,
-               "cost":5.15
+               "quantity":0.50,
+               "unitPrice":19.98,
+               "unit":"kg"     
+               "cost":9.99
             },
             {
                "invoiceLineId":2,
                "description":"Lamb",
                "quantity":1,
+               "unitPrice":9.99,
                "cost":9.99
             }
          ]
@@ -246,12 +253,15 @@
                "invoiceLineId":1,
                "description":"Cherry",
                "quantity":1,
+               "unitPrice":4.99,
                "cost":4.99
             },
             {
                "invoiceLineId":2,
                "description":"Kiwi Fruit",
                "quantity":1,
+               ”unitPrice“:3.99,
+               "unit":"kg",
                "cost":3.99
             }
          ]
