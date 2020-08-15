@@ -3,7 +3,7 @@
       {
          "invoiceNumber":100001,
          "invoiceDate":"2020-08-14T07:50:30",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Apple",
@@ -17,7 +17,7 @@
       {
          "invoiceNumber":100002,
          "invoiceDate":"2018-08-14T08:50:31",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Grape",
@@ -31,7 +31,7 @@
       {
          "invoiceNumber":100003,
          "invoiceDate":"2018-08-14T09:50:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Corriander",
@@ -51,7 +51,7 @@
       {
          "invoiceNumber":100004,
          "invoiceDate":"2018-08-14T10:51:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Soy Sause",
@@ -71,7 +71,7 @@
       {
          "invoiceNumber":100005,
          "invoiceDate":"2018-08-14T11:21:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Banana",
@@ -94,7 +94,7 @@
       {
          "invoiceNumber":100006,
          "invoiceDate":"2020-08-14T12:20:30",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"PineApple",
@@ -107,7 +107,7 @@
       {
          "invoiceNumber":100007,
          "invoiceDate":"2018-08-14T12:50:31",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Red Grape",
@@ -121,7 +121,7 @@
       {
          "invoiceNumber":100008,
          "invoiceDate":"2018-08-14T13:10:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Tofu",
@@ -141,7 +141,7 @@
       {
          "invoiceNumber":100009,
          "invoiceDate":"2018-08-14T14:11:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Barbecue",
@@ -161,7 +161,7 @@
       {
          "invoiceNumber":1000010,
          "invoiceDate":"2018-08-14T14:21:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Banana",
@@ -181,7 +181,7 @@
       {
          "invoiceNumber":1000011,
          "invoiceDate":"2020-08-14T15:20:30",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Pork",
@@ -194,7 +194,7 @@
       {
          "invoiceNumber":1000012,
          "invoiceDate":"2018-08-14T15:30:31",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Beef",
@@ -207,7 +207,7 @@
       {
          "invoiceNumber":1000013,
          "invoiceDate":"2018-08-14T16:10:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Fish Tofu",
@@ -227,7 +227,7 @@
       {
          "invoiceNumber":1000014,
          "invoiceDate":"2018-08-14T17:11:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Tomato",
@@ -248,7 +248,7 @@
       {
          "invoiceNumber":1000015,
          "invoiceDate":"2018-08-14T18:21:32",
-         "lineItmes":[
+         "lineItems":[
             {
                "invoiceLineId":1,
                "description":"Cherry",
