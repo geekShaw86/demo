@@ -34,7 +34,7 @@
          "lineItems":[
             {
                "invoiceLineId":1,
-               "description":"Corriander",
+               "description":"Coriander",
                "quantity":3.0,
                "unitPrice":1.49,
                "cost":4.47
