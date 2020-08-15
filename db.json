@@ -88,9 +88,7 @@
                "cost":10.00
             }
          ]
-      }
-   ],
-   "page2":[
+      },
       {
          "invoiceNumber":100006,
          "invoiceDate":"2020-08-14T12:20:30",
@@ -177,8 +175,8 @@
          ]
       }
    ],
-   "page3":[
-      {
+   "page2":[
+       {
          "invoiceNumber":1000011,
          "invoiceDate":"2020-08-14T15:20:30",
          "lineItems":[
