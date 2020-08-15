@@ -260,7 +260,7 @@
                "invoiceLineId":2,
                "description":"Kiwi Fruit",
                "quantity":1,
-               ”unitPrice“:3.99,
+               "unitPrice":3.99,
                "unit":"kg",
                "cost":3.99
             }
