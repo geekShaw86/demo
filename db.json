@@ -264,7 +264,22 @@
             }
          ]
       },
-                  "description":"Crayfish",
+         },
+   {
+      "invoiceNumber":1000019,
+      "invoiceDate":"2018-08-15T17:11:32",
+      "lineItems":[
+         {
+            "invoiceLineId":1,
+            "description":"Potato",
+            "quantity":2.0,
+            "unitPrice":1.99,
+            "unit":"kg",
+            "cost":3.98
+         },
+         {
+            "invoiceLineId":2,
+            "description":"Crayfish",
             "quantity":1,
             "unitPrice":39.99,
             "cost":39.99
@@ -290,6 +305,6 @@
             "cost":3.99
          }
       ]
-   }
+   }        
    ]
 }
