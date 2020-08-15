@@ -233,7 +233,7 @@
                "description":"Tomato",
                "quantity":0.50,
                "unitPrice":19.98,
-               "unit":"kg"     
+               "unit":"kg",     
                "cost":9.99
             },
             {
