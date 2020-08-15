@@ -164,12 +164,14 @@
                "invoiceLineId":1,
                "description":"Banana",
                "quantity":1,
+               "unitPrice":2.45,
                "cost":2.45
             },
             {
                "invoiceLineId":2,
                "description":"Cabbage",
                "quantity":1,
+               "unitPrice":2.99,
                "cost":2.99
             }
          ]
